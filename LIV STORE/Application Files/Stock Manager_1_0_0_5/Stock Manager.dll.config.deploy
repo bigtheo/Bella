@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="serverName" value="127.0.0.1"/>
+    <add key="port" value="3036"/>
+    <add key="userName" value="root"/>
+    <add key="database" value="stroreDb"/>
+    <add key="password" value="1993"/>
+    <add key="entrepriseName" value="LADY MARIAM"/>
+    <add key="addresseEntreprise" value="Adress"/>
+    <add key="Rccm" value="default"/>
+    <add key="cellPhone" value="+243994163572"/>
+    <add key="mention" value=""/>
+  </appSettings>
+</configuration>
